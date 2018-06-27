@@ -4,7 +4,7 @@
 # name of the character.
 
 define e = Character("Eileen")
-define wb = Character("Wednesday")
+define wj = Character("Wednesday")
 
 # The game starts here.
 
